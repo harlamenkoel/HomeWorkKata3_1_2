@@ -6,16 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="homeWorkKataPP3_2_1" />
+        <module name="homeWorkKataPP3_1_2" />
+        <module name="HomeWorkKataPP3_1_2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="homeWorkKataPP3_2_1" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="homeWorkKataPP3_2_1" options="-parameters" />
+      <module name="HomeWorkKataPP3_1_2" options="-parameters" />
+      <module name="homeWorkKataPP3_1_2" options="-parameters" />
     </option>
   </component>
 </project>
